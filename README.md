@@ -1,6 +1,7 @@
-# React + Vite
+# Foodie Recipe app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Recipe app made by react
+
 
 Currently, two official plugins are available:
 
